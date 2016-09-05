@@ -193,5 +193,5 @@ Thanks @andreoliw for these contributions.
 - First iteration
 - Bootstrap 3 final
 - Working User model and registration
-
+- Test
 
